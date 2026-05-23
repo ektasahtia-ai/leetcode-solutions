@@ -15,6 +15,7 @@ This repo contains my solutions to LeetCode problems solved using C++ while lear
 
 ## Language
 - C++
+- python
 
 ## Purpose
 - Improve problem-solving skills
