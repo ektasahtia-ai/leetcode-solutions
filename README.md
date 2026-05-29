@@ -1,7 +1,7 @@
 # LeetCode Solutions 
 
 Welcome to my LeetCode solutions repository!  
-This repo contains my solutions to LeetCode problems solved using C++ while learning and practicing Data Structures & Algorithms.
+This repo contains my solutions to LeetCode problems solved using C++ and python while learning and practicing Data Structures & Algorithms.
 
 ## Topics Covered
 - Arrays
