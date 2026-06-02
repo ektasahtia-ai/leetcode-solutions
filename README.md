@@ -1,28 +1,58 @@
-# LeetCode Solutions 
+# LeetCode Solutions
 
-Welcome to my LeetCode solutions repository!  
-This repo contains my solutions to LeetCode problems solved using C++ and python while learning and practicing Data Structures & Algorithms.
+Welcome to my LeetCode Solutions Repository! 
+
+This repository contains my solutions to LeetCode problems in:
+
+- C++
+- Python
 
 ## Topics Covered
+
 - Arrays
 - Strings
 - Linked Lists
-- Stack & Queue
+- Stacks & Queues
 - Trees
-- Recursion
-- Sorting & Searching
+- Graphs
 - Dynamic Programming
+- Greedy Algorithms
+- Backtracking
+- Binary Search
+- Sliding Window
+- Two Pointers
+- Bit Manipulation
+- Heap / Priority Queue
+- Trie
+- Union Find
 
-## Language
-- C++
-- python
+## Repository Structure
 
-## Purpose
-- Improve problem-solving skills
-- Practice DSA regularly
-- Prepare for coding interviews
-- Track coding progress
+```text
+LeetCode/
+├── Cpp/
+├── Python/
+└── README.md
+```
 
-## Progress
-I will keep updating this repository with more problems and optimized solutions.
+## Languages
 
+| Language | Solutions |
+|-----------|-----------|
+| C++ | ✓ |
+| Python | ✓ |
+
+## Goal
+
+- Strengthen Data Structures & Algorithms
+- Practice Problem Solving
+- Prepare for Coding Interviews
+- Maintain Clean & Optimized Solutions
+
+## Notes
+
+- Solutions are organized by problem number and title.
+- Most solutions include optimized approaches.
+- Time and space complexity may be added where relevant.
+
+⭐ If you find this repository helpful, consider giving it a star!
