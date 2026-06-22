@@ -1,0 +1,30 @@
+class Solution {
+public:
+    ListNode* deleteDuplicates(ListNode* head) {
+        ListNode* dummy = new ListNode(0);
+        dummy->next = head;
+
+        ListNode* prev = dummy;
+        ListNode* curr = head;
+
+        while (curr) {
+            // Check if current node is a duplicate
+            if (curr->next && curr->val == curr->next->val) {
+                int duplicateVal = curr->val;
+
+                // Skip all nodes with this value
+                while (curr && curr->val == duplicateVal) {
+                    curr = curr->next;
+                }
+
+                prev->next = curr;
+            } 
+            else {
+                prev = curr;
+                curr = curr->next;
+            }
+        }
+
+        return dummy->next;
+    }
+};
