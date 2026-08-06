@@ -2,7 +2,7 @@
 
 Welcome to my LeetCode Solutions Repository! 
 
-This repository contains my solutions to LeetCode problems in:
+This repository contains all my solutions to LeetCode problems in:
 
 - C++
 - Python
